@@ -32,7 +32,6 @@ wishpilot/
 ├── email_service.py
 ├── music.py
 ├── birthdays.json
-├── settings.json
 ├── assets/
 └── README.md
 ```
