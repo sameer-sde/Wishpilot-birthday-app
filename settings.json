@@ -1,0 +1,16 @@
+{
+  "smtp_host": "smtp.gmail.com",
+  "smtp_port": 587,
+  "sender_email": "ameersameer252@gmail.com",
+  "sender_name": "Harsh Vijay | Team Lead",
+  "password": "xdbl bxrd dhgi odjd",
+  "use_tls": true,
+  "music_enabled": false,
+  "scheduler_enabled": true,
+  "check_hour": 9,
+  "check_minute": 0,
+  "upcoming_days": 30,
+  "theme": "dark",
+  "music_file": "",
+  "last_auto_run": ""
+}

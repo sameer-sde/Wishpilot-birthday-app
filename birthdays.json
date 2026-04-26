@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Sameer Ahmed",
+    "email": "ameersameer252@gmail.com",
+    "birth_date": "2026-04-26",
+    "subject_template": "Happy Birthday, {name}! 🎉",
+    "body_template": "Hi Sameer Ahmed,\n\nWishing you a very Happy Birthday! 🎂🎉\nHope your day is filled with joy, laughter, and cake!\n\nBest wishes,\n{sender_name}",
+    "active": true,
+    "last_sent_year": 2026
+  },
+  {
+    "id": 2,
+    "name": "Sameer Ahmed",
+    "email": "ameersameer52@gmail.com",
+    "birth_date": "2026-04-26",
+    "subject_template": "Happy Birthday, {name}! 🎉",
+    "body_template": "Hi {name},\n\nWishing you a very Happy Birthday! 🎂🎉\nHope your day is filled with joy, laughter, and cake!\n\nBest wishes,\nSameer Ahmed",
+    "active": true,
+    "last_sent_year": 2026
+  },
+  {
+    "id": 3,
+    "name": "Ameer Aalam",
+    "email": "ameersameer252@gmail.com",
+    "birth_date": "2026-04-26",
+    "subject_template": "Update on Sameer’s transfer to Microsoft Noida",
+    "body_template": "Dear Sir,\n\nI hope you are doing well. I am writing to inform you that Sameer’s internal transfer to the Microsoft Noida office has been successfully completed.\n\nHis reporting date at the Noida office is 3rd May. He will be joining the new team from that day and will be taking on additional responsibilities aligned with his skills and performance so far. We are confident that this move will give him strong exposure and good growth opportunities.\n\nIf you need any further details from our side, please feel free to let me know.\n\nBest regards,\nHarsh Vijay\nTeam Lead, Microsoft",
+    "active": true,
+    "last_sent_year": 2026
+  }
+]
